@@ -1,0 +1,5 @@
+{
+  "name": "CuraVoice Assistant",
+  "description": "A warm, human-like assistant for CuraVoice Multispecialty Clinic.",
+  "requestFramePermissions": ["microphone"]
+}
